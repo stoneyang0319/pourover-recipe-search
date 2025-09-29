@@ -1,0 +1,2 @@
+streamlit>=1.36
+exa_py>=1.15.6
